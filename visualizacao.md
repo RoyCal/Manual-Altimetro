@@ -43,11 +43,11 @@ DB_PASSWORD=senha_do_mysql
 DB_NAME=nome_do_banco_de_dados
 ```
 
-> **Observação:** o banco de dados não precisa existir previamente no servidor MySQL. A aplicação realiza a criação da estrutura necessária automaticamente durante sua inicialização.
+> **Observação:** No caso do Sistema de Visualização, o banco de dados **DEVE** existir previamente no servidor MySQL. Caso ele ainda não exista, nenhum lançamento será encontrado!
 
 ## Conclusão
 
-Após concluir as etapas acima, o sistema de visualização estará devidamente instalado e configurado, estando pronto para ser executado conforme as instruções de utilização.
+Após concluir as etapas acima, o Sistema de Visualização estará devidamente instalado e configurado, estando pronto para ser executado conforme as instruções de utilização.
 
 ---
 

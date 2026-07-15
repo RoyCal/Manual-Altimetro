@@ -2,15 +2,15 @@
 
 Bem-vindo ao manual do Sistema de Altimetria do Cangaço no Espaço.
 
-## Instalação
+## Guia de Instalação
 
 - [Requisitos](requisitos.md)
-- [Instalar Aplicativo de Terminal](terminal.md)
+- [Instalar Programa de Recuperação de Dados](terminal.md)
 - [Instalar Sistema de Visualização](visualizacao.md)
 
 ---
 
-## Utilização
+## Guia de Utilização
 
 - [Recuperação de dados](recuperar-dados.md)
 - [Visualização de dados](visualizacao_utilizar.md)

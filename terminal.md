@@ -1,4 +1,4 @@
-# Instalação do Aplicativo de Terminal
+# Instalação do Programa de Recuperação de Dados
 
 Esta seção descreve os passos necessários para instalar e configurar o aplicativo de terminal responsável pela comunicação com o altímetro.
 
@@ -49,17 +49,17 @@ DATABASE = "nome_do_banco_de_dados"
 
 Caso o computador não reconheça o módulo USB-TTL utilizado pelo altímetro, instale o driver **PL2303**.
 
-O instalador já está incluído neste repositório com o nome:
+O instalador já está incluído no repositório com o nome:
 
 ```text
 PL2303_Prolific_DriverInstaller_v1.5.0.exe
 ```
 
-Execute o instalador e siga as instruções exibidas na tela. Após a instalação, recomenda-se desconectar e reconectar o módulo USB-TTL ao computador.
+No gerenciador de dispositivos, localize o módulo não reconhecido na aba **Portas (COM e LPT)** e o desinstale removendo seu driver atual. Após isso, execute o instalador e siga as instruções exibidas na tela. Após a instalação, recomenda-se desconectar e reconectar o módulo USB-TTL ao computador.
 
 ## Conclusão
 
-Após concluir as etapas acima, o aplicativo de terminal estará pronto para ser executado.
+Após concluir as etapas acima, o Programa de Recuperação de Dados estará devidamente instalado e configurado, estando pronto para ser executado conforme as instruções de utilização.
 
 ---
 

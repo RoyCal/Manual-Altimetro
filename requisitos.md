@@ -26,7 +26,7 @@ https://www.python.org/downloads/
 
 ## MySQL Community Server
 
-O MySQL é utilizado para armazenar os dados importados do altímetro.
+O MySQL é utilizado para armazenar os dados recuperados do altímetro.
 
 **Versão testada:** 9.7
 
