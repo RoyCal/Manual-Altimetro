@@ -43,7 +43,7 @@ DB_PASSWORD=senha_do_mysql
 DB_NAME=nome_do_banco_de_dados
 ```
 
-> **Observação:** No caso do Sistema de Visualização, o banco de dados **DEVE** existir previamente no servidor MySQL. Caso ele ainda não exista, nenhum lançamento será encontrado!
+> **Observação:** No caso do Sistema de Visualização, o banco de dados **DEVE** existir previamente no servidor MySQL. Caso ele ainda não exista, não será criado automaticamente e nenhum lançamento será encontrado! Rode antes o Programa de Recuperação de Dados para que o banco de dados seja criado.
 
 ## Conclusão
 
