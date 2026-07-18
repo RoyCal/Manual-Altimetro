@@ -12,5 +12,6 @@ Bem-vindo ao manual do Sistema de Altimetria do Cangaço no Espaço.
 
 ## Guia de Utilização
 
+- [Altímetro](altimetro.md)
 - [Recuperação de dados](recuperar-dados.md)
 - [Visualização de dados](visualizacao_utilizar.md)

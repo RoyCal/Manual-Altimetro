@@ -20,6 +20,8 @@ git clone https://github.com/RoyCal/Altimetro-TCC.git
 
 Como alternativa, é possível fazer o download do código-fonte diretamente pelo GitHub utilizando a opção **Code → Download ZIP** e, em seguida, extrair o conteúdo em uma pasta de sua preferência.
 
+> **Observação:** também está disponível nesse repositório o firmware do altímetro, no arquivo entitulado **firmware.ASM**.
+
 ## 2. Instalar as dependências do Python
 
 Abra um terminal na pasta do aplicativo e execute o comando abaixo para instalar todas as dependências necessárias:
